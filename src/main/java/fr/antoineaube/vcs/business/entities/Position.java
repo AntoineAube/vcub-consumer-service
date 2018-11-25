@@ -56,4 +56,13 @@ public class Position {
     public int hashCode() {
         return Objects.hash(longitude, latitude, coordinateSystemName);
     }
+
+    @Override
+    public String toString() {
+        return "Position{" +
+                "longitude=" + longitude +
+                ", latitude=" + latitude +
+                ", coordinateSystemName='" + coordinateSystemName + '\'' +
+                '}';
+    }
 }
