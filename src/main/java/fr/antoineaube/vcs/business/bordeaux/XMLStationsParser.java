@@ -1,7 +1,9 @@
-package fr.antoineaube.vcs.business;
+package fr.antoineaube.vcs.business.bordeaux;
 
 import fr.antoineaube.vcs.business.entities.BicyclesStation;
 import fr.antoineaube.vcs.business.entities.Position;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
@@ -21,6 +23,7 @@ import java.util.List;
 
 public class XMLStationsParser {
 
+    private static final Logger LOGGER = LogManager.getLogger(XMLStationsParser.class);
     private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
     private static final DocumentBuilderFactory FACTORY = DocumentBuilderFactory.newInstance();
 
@@ -38,6 +41,7 @@ public class XMLStationsParser {
 
             return stations;
         } catch (IOException | SAXException | ParserConfigurationException e) {
+            LOGGER.error("XML failure when reading stations XML document", e);
             return Collections.emptyList();
         }
     }

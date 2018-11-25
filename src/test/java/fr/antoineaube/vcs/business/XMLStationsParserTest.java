@@ -1,5 +1,6 @@
 package fr.antoineaube.vcs.business;
 
+import fr.antoineaube.vcs.business.bordeaux.XMLStationsParser;
 import fr.antoineaube.vcs.business.entities.BicyclesStation;
 import fr.antoineaube.vcs.business.entities.Position;
 import org.junit.Before;

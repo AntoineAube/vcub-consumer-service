@@ -4,9 +4,7 @@ import fr.antoineaube.vcs.business.entities.BicyclesStation;
 
 import java.util.List;
 
-public class StationsProvider {
+public interface StationsProvider {
 
-    public List<BicyclesStation> fetchBicyclesStations() {
-        return null;
-    }
+    List<BicyclesStation> fetchBicyclesStations();
 }
