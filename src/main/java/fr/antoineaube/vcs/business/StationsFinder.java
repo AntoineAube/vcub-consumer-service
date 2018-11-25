@@ -4,6 +4,7 @@ import fr.antoineaube.vcs.business.entities.BicyclesStation;
 import fr.antoineaube.vcs.business.entities.Position;
 import fr.antoineaube.vcs.business.entities.QueriedStation;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -18,6 +19,7 @@ public class StationsFinder {
     public List<QueriedStation> findStations(Position location) {
         return stationsProvider.fetchBicyclesStations().stream()
                 .map(plainStation -> enhanceStation(plainStation, location))
+                .sorted(Comparator.comparing(QueriedStation::getDistanceToQueriedPosition))
                 .collect(Collectors.toList());
     }
 
