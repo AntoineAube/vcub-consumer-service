@@ -21,7 +21,7 @@ public class BordeauxPlainStationsProvider implements PlainStationsProvider {
     private final String apiKey;
 
     public BordeauxPlainStationsProvider() {
-        apiKey = "9Y2RU3FTE8";//System.getenv("bordeaux-api-key"); TODO
+        apiKey = System.getenv("API_KEY");
     }
 
     public BordeauxPlainStationsProvider(String apiKey) {
