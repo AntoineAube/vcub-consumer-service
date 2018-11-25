@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Bordeaux Métropole WFS Server - version 3.0.1 - Conditions d'utilisation sur http://data.bordeaux-metropole.fr -->
+<wfs:FeatureCollection xmlns:bm="http://data.bordeaux-metropole.fr/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:wfs="http://www.opengis.net/wfs" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://data.bordeaux-metropole.fr/wfs http://data.lacub.fr/wfs?key=9Y2RU3FTE8&amp;SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=CI_VCUB_P&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+    <gml:boundedBy>
+        <gml:Envelope srsName="EPSG:4326">
+            <gml:lowerCorner>44.773678 -0.724596</gml:lowerCorner>
+            <gml:upperCorner>44.917300 -0.496694</gml:upperCorner>
+        </gml:Envelope>
+    </gml:boundedBy>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.147">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.893910 -0.566225</gml:lowerCorner>
+                    <gml:upperCorner>44.893910 -0.566225</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.893910 -0.566225</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>147</bm:GID>
+            <bm:IDENT>147</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Parc des Expositions</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>19</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+</wfs:FeatureCollection>

@@ -1,0 +1,4058 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Bordeaux Métropole WFS Server - version 3.0.1 - Conditions d'utilisation sur http://data.bordeaux-metropole.fr -->
+<wfs:FeatureCollection xmlns:bm="http://data.bordeaux-metropole.fr/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:wfs="http://www.opengis.net/wfs" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://data.bordeaux-metropole.fr/wfs http://data.lacub.fr/wfs?key=9Y2RU3FTE8&amp;SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=CI_VCUB_P&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+    <gml:boundedBy>
+        <gml:Envelope srsName="EPSG:4326">
+            <gml:lowerCorner>44.773678 -0.724596</gml:lowerCorner>
+            <gml:upperCorner>44.917300 -0.496694</gml:upperCorner>
+        </gml:Envelope>
+    </gml:boundedBy>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.147">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.893910 -0.566225</gml:lowerCorner>
+                    <gml:upperCorner>44.893910 -0.566225</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.893910 -0.566225</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>147</bm:GID>
+            <bm:IDENT>147</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Parc des Expositions</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>19</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.166">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.881920 -0.565221</gml:lowerCorner>
+                    <gml:upperCorner>44.881920 -0.565221</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.881920 -0.565221</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>166</bm:GID>
+            <bm:IDENT>166</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Centre commercial du Lac</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>1</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.100">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.855600 -0.563190</gml:lowerCorner>
+                    <gml:upperCorner>44.855600 -0.563190</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.855600 -0.563190</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>100</bm:GID>
+            <bm:IDENT>100</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Cours du Medoc</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>27</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.174">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.849320 -0.562170</gml:lowerCorner>
+                    <gml:upperCorner>44.849320 -0.562170</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.849320 -0.562170</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>174</bm:GID>
+            <bm:IDENT>174</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Darwin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.170">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.865833 -0.561297</gml:lowerCorner>
+                    <gml:upperCorner>44.865833 -0.561297</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.865833 -0.561297</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>170</bm:GID>
+            <bm:IDENT>170</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Lucien Faure</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>17</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.67">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.843770 -0.557510</gml:lowerCorner>
+                    <gml:upperCorner>44.843770 -0.557510</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.843770 -0.557510</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>67</bm:GID>
+            <bm:IDENT>67</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Allee de Serr Abadie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.99">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.857870 -0.558080</gml:lowerCorner>
+                    <gml:upperCorner>44.857870 -0.558080</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.857870 -0.558080</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>99</bm:GID>
+            <bm:IDENT>99</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Les Hangars</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.98">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.860070 -0.554470</gml:lowerCorner>
+                    <gml:upperCorner>44.860070 -0.554470</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.860070 -0.554470</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>98</bm:GID>
+            <bm:IDENT>98</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Bassins a flot</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.172">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.861780 -0.551499</gml:lowerCorner>
+                    <gml:upperCorner>44.861780 -0.551499</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.861780 -0.551499</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>172</bm:GID>
+            <bm:IDENT>172</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>La Cite du Vin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.173">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.867490 -0.548100</gml:lowerCorner>
+                    <gml:upperCorner>44.867490 -0.548100</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.867490 -0.548100</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>173</bm:GID>
+            <bm:IDENT>173</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Rue Achard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.16">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.849470 -0.545250</gml:lowerCorner>
+                    <gml:upperCorner>44.849470 -0.545250</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.849470 -0.545250</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>16</bm:GID>
+            <bm:IDENT>16</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Galin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.97">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.877380 -0.544330</gml:lowerCorner>
+                    <gml:upperCorner>44.877380 -0.544330</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.877380 -0.544330</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>97</bm:GID>
+            <bm:IDENT>97</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Claveau</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.148">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.885406 -0.541466</gml:lowerCorner>
+                    <gml:upperCorner>44.885406 -0.541466</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.885406 -0.541466</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>148</bm:GID>
+            <bm:IDENT>148</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Berges de Garonne</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.62">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.856476 -0.533983</gml:lowerCorner>
+                    <gml:upperCorner>44.856476 -0.533983</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.856476 -0.533983</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>62</bm:GID>
+            <bm:IDENT>62</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Cenon Gare</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.70">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.864280 -0.524200</gml:lowerCorner>
+                    <gml:upperCorner>44.864280 -0.524200</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.864280 -0.524200</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>70</bm:GID>
+            <bm:IDENT>70</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Buttiniere</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.149">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.878890 -0.517830</gml:lowerCorner>
+                    <gml:upperCorner>44.878890 -0.517830</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.878890 -0.517830</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>149</bm:GID>
+            <bm:IDENT>149</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Lauriers</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>5</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.71">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.887500 -0.517630</gml:lowerCorner>
+                    <gml:upperCorner>44.887500 -0.517630</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.887500 -0.517630</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>71</bm:GID>
+            <bm:IDENT>71</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>La Gardette</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.72">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.854180 -0.512820</gml:lowerCorner>
+                    <gml:upperCorner>44.854180 -0.512820</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.854180 -0.512820</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>72</bm:GID>
+            <bm:IDENT>72</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Jean Zay</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.151">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.845630 -0.510532</gml:lowerCorner>
+                    <gml:upperCorner>44.845630 -0.510532</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.845630 -0.510532</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>151</bm:GID>
+            <bm:IDENT>151</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Dravemont</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>20</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.150">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.849293 -0.496694</gml:lowerCorner>
+                    <gml:upperCorner>44.849293 -0.496694</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.849293 -0.496694</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>150</bm:GID>
+            <bm:IDENT>150</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Feydeau</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.42">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.839240 -0.572030</gml:lowerCorner>
+                    <gml:upperCorner>44.839240 -0.572030</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.839240 -0.572030</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>42</bm:GID>
+            <bm:IDENT>42</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Camille Jullian</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.105">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.832620 -0.570970</gml:lowerCorner>
+                    <gml:upperCorner>44.832620 -0.570970</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.832620 -0.570970</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>105</bm:GID>
+            <bm:IDENT>105</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Rue du Mirail</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.139">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.824050 -0.570240</gml:lowerCorner>
+                    <gml:upperCorner>44.824050 -0.570240</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.824050 -0.570240</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>139</bm:GID>
+            <bm:IDENT>139</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Lycee Bremontier</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>1</bm:NBPLACES>
+            <bm:NBVELOS>17</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.103">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.837790 -0.570340</gml:lowerCorner>
+                    <gml:upperCorner>44.837790 -0.570340</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.837790 -0.570340</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>103</bm:GID>
+            <bm:IDENT>103</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place du Palais</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>14</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.101">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.842950 -0.570370</gml:lowerCorner>
+                    <gml:upperCorner>44.842950 -0.570370</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.842950 -0.570370</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>101</bm:GID>
+            <bm:IDENT>101</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Jean Jaures</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.76">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.781742 -0.566207</gml:lowerCorner>
+                    <gml:upperCorner>44.781742 -0.566207</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.781742 -0.566207</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>76</bm:GID>
+            <bm:IDENT>76</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Pont de la Maye</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>1</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.163">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.787250 -0.566155</gml:lowerCorner>
+                    <gml:upperCorner>44.787250 -0.566155</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.787250 -0.566155</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>163</bm:GID>
+            <bm:IDENT>163</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Lycee Vaclav Havel</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.102">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.840300 -0.569140</gml:lowerCorner>
+                    <gml:upperCorner>44.840300 -0.569140</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.840300 -0.569140</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>102</bm:GID>
+            <bm:IDENT>102</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place de la Bourse</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.133">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.829950 -0.568120</gml:lowerCorner>
+                    <gml:upperCorner>44.829950 -0.568120</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.829950 -0.568120</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>133</bm:GID>
+            <bm:IDENT>133</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Capucins</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.134">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.832630 -0.567110</gml:lowerCorner>
+                    <gml:upperCorner>44.832630 -0.567110</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.832630 -0.567110</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>134</bm:GID>
+            <bm:IDENT>134</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place du Maucaillou</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>5</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.123">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.837790 -0.567160</gml:lowerCorner>
+                    <gml:upperCorner>44.837790 -0.567160</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.837790 -0.567160</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>123</bm:GID>
+            <bm:IDENT>123</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Porte de Bourgogne</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>21</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.129">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.813080 -0.564200</gml:lowerCorner>
+                    <gml:upperCorner>44.813080 -0.564200</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.813080 -0.564200</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>129</bm:GID>
+            <bm:IDENT>129</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere de Begles</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>14</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.138">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826560 -0.564550</gml:lowerCorner>
+                    <gml:upperCorner>44.826560 -0.564550</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826560 -0.564550</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>138</bm:GID>
+            <bm:IDENT>138</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barbey</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.135">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.834797 -0.564732</gml:lowerCorner>
+                    <gml:upperCorner>44.834797 -0.564732</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.834797 -0.564732</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>135</bm:GID>
+            <bm:IDENT>135</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place St Michel</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.128">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.822180 -0.563080</gml:lowerCorner>
+                    <gml:upperCorner>44.822180 -0.563080</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.822180 -0.563080</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>128</bm:GID>
+            <bm:IDENT>128</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Sacre Coeur</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.124">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.833870 -0.562710</gml:lowerCorner>
+                    <gml:upperCorner>44.833870 -0.562710</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.833870 -0.562710</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>124</bm:GID>
+            <bm:IDENT>124</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Parc des Sports</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.137">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.828327 -0.562299</gml:lowerCorner>
+                    <gml:upperCorner>44.828327 -0.562299</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.828327 -0.562299</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>137</bm:GID>
+            <bm:IDENT>137</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Andre Meunier</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>25</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.66">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.841140 -0.562240</gml:lowerCorner>
+                    <gml:upperCorner>44.841140 -0.562240</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.841140 -0.562240</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>66</bm:GID>
+            <bm:IDENT>66</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Gare d'Orleans</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.75">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.807735 -0.560024</gml:lowerCorner>
+                    <gml:upperCorner>44.807735 -0.560024</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.807735 -0.560024</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>75</bm:GID>
+            <bm:IDENT>75</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Begles Poste</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>2</bm:NBPLACES>
+            <bm:NBVELOS>16</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.136">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.831310 -0.561390</gml:lowerCorner>
+                    <gml:upperCorner>44.831310 -0.561390</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.831310 -0.561390</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>136</bm:GID>
+            <bm:IDENT>136</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Eglise Ste Croix</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.125">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.831830 -0.559660</gml:lowerCorner>
+                    <gml:upperCorner>44.831830 -0.559660</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.831830 -0.559660</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>125</bm:GID>
+            <bm:IDENT>125</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Conservatoire</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.65">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.840340 -0.559550</gml:lowerCorner>
+                    <gml:upperCorner>44.840340 -0.559550</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.840340 -0.559550</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>65</bm:GID>
+            <bm:IDENT>65</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Stalingrad</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>32</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.54">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826420 -0.557320</gml:lowerCorner>
+                    <gml:upperCorner>44.826420 -0.557320</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826420 -0.557320</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>54</bm:GID>
+            <bm:IDENT>54</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Rue St Vincent de Paul</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>28</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.127">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826300 -0.557070</gml:lowerCorner>
+                    <gml:upperCorner>44.826300 -0.557070</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826300 -0.557070</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>127</bm:GID>
+            <bm:IDENT>127</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Gare St Jean</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>14</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.64">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.839600 -0.556450</gml:lowerCorner>
+                    <gml:upperCorner>44.839600 -0.556450</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.839600 -0.556450</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>64</bm:GID>
+            <bm:IDENT>64</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>La Benauge</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>18</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.68">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.842980 -0.555730</gml:lowerCorner>
+                    <gml:upperCorner>44.842980 -0.555730</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.842980 -0.555730</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>68</bm:GID>
+            <bm:IDENT>68</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Jardin Botanique</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.162">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.798195 -0.551517</gml:lowerCorner>
+                    <gml:upperCorner>44.798195 -0.551517</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.798195 -0.551517</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>162</bm:GID>
+            <bm:IDENT>162</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Gare de Begles</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>17</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.46">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.822803 -0.552930</gml:lowerCorner>
+                    <gml:upperCorner>44.822803 -0.552930</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.822803 -0.552930</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>46</bm:GID>
+            <bm:IDENT>46</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Belcier</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>4</bm:NBPLACES>
+            <bm:NBVELOS>17</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.73">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.815083 -0.550901</gml:lowerCorner>
+                    <gml:upperCorner>44.815083 -0.550901</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.815083 -0.550901</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>73</bm:GID>
+            <bm:IDENT>73</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Terres Neuves</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>14</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.126">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826700 -0.549830</gml:lowerCorner>
+                    <gml:upperCorner>44.826700 -0.549830</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826700 -0.549830</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>126</bm:GID>
+            <bm:IDENT>126</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Quai de Paludate</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>1</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.74">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.807700 -0.548210</gml:lowerCorner>
+                    <gml:upperCorner>44.807700 -0.548210</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.807700 -0.548210</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>74</bm:GID>
+            <bm:IDENT>74</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Place du 14 juillet</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.69">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.842990 -0.550360</gml:lowerCorner>
+                    <gml:upperCorner>44.842990 -0.550360</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.842990 -0.550360</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>69</bm:GID>
+            <bm:IDENT>69</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Cours Le Rouzic</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.175">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826054 -0.531631</gml:lowerCorner>
+                    <gml:upperCorner>44.826054 -0.531631</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826054 -0.531631</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>175</bm:GID>
+            <bm:IDENT>175</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Arena</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>4</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.63">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.830280 -0.526970</gml:lowerCorner>
+                    <gml:upperCorner>44.830280 -0.526970</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.830280 -0.526970</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>63</bm:GID>
+            <bm:IDENT>63</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>François Mitterrand</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.38">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.846410 -0.580200</gml:lowerCorner>
+                    <gml:upperCorner>44.846410 -0.580200</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.846410 -0.580200</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>38</bm:GID>
+            <bm:IDENT>38</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Charles Gruet</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.159">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.897846 -0.582511</gml:lowerCorner>
+                    <gml:upperCorner>44.897846 -0.582511</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.897846 -0.582511</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>159</bm:GID>
+            <bm:IDENT>159</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Camping International</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.19">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.844650 -0.577450</gml:lowerCorner>
+                    <gml:upperCorner>44.844650 -0.577450</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.844650 -0.577450</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>19</bm:GID>
+            <bm:IDENT>19</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Tourny</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>14</bm:NBPLACES>
+            <bm:NBVELOS>14</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.37">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.848490 -0.575810</gml:lowerCorner>
+                    <gml:upperCorner>44.848490 -0.575810</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.848490 -0.575810</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>37</bm:GID>
+            <bm:IDENT>37</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Jardin Public</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>22</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.118">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.866940 -0.576080</gml:lowerCorner>
+                    <gml:upperCorner>44.866940 -0.576080</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.866940 -0.576080</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>118</bm:GID>
+            <bm:IDENT>118</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Ravezies</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.119">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.862600 -0.575760</gml:lowerCorner>
+                    <gml:upperCorner>44.862600 -0.575760</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.862600 -0.575760</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>119</bm:GID>
+            <bm:IDENT>119</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Grand Parc</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>18</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.39">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.844230 -0.574340</gml:lowerCorner>
+                    <gml:upperCorner>44.844230 -0.574340</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.844230 -0.574340</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>39</bm:GID>
+            <bm:IDENT>39</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Quinconces</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>21</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.56">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.851710 -0.574270</gml:lowerCorner>
+                    <gml:upperCorner>44.851710 -0.574270</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.851710 -0.574270</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>56</bm:GID>
+            <bm:IDENT>56</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Paul Doumer</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>3</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.55">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.854620 -0.574350</gml:lowerCorner>
+                    <gml:upperCorner>44.854620 -0.574350</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.854620 -0.574350</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>55</bm:GID>
+            <bm:IDENT>55</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Camille Godard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>4</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.96">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.873890 -0.574010</gml:lowerCorner>
+                    <gml:upperCorner>44.873890 -0.574010</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.873890 -0.574010</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>96</bm:GID>
+            <bm:IDENT>96</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Les Aubiers</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>17</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.57">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.851550 -0.571630</gml:lowerCorner>
+                    <gml:upperCorner>44.851550 -0.571630</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.851550 -0.571630</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>57</bm:GID>
+            <bm:IDENT>57</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Eglise St Louis</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.60">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.847180 -0.571310</gml:lowerCorner>
+                    <gml:upperCorner>44.847180 -0.571310</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.847180 -0.571310</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>60</bm:GID>
+            <bm:IDENT>60</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Allees de Chartres</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>3</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.59">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.849780 -0.570240</gml:lowerCorner>
+                    <gml:upperCorner>44.849780 -0.570240</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.849780 -0.570240</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>59</bm:GID>
+            <bm:IDENT>59</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>CAPC</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.122">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.858490 -0.569660</gml:lowerCorner>
+                    <gml:upperCorner>44.858490 -0.569660</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.858490 -0.569660</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>122</bm:GID>
+            <bm:IDENT>122</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Cours St Louis Medoc</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.145">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.879040 -0.570570</gml:lowerCorner>
+                    <gml:upperCorner>44.879040 -0.570570</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.879040 -0.570570</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>145</bm:GID>
+            <bm:IDENT>145</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Berges du Lac</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>1</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.58">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.853210 -0.567270</gml:lowerCorner>
+                    <gml:upperCorner>44.853210 -0.567270</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.853210 -0.567270</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>58</bm:GID>
+            <bm:IDENT>58</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Chartrons</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.120">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.862610 -0.567180</gml:lowerCorner>
+                    <gml:upperCorner>44.862610 -0.567180</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.862610 -0.567180</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>120</bm:GID>
+            <bm:IDENT>120</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Louis Haussmann</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.121">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.858910 -0.565840</gml:lowerCorner>
+                    <gml:upperCorner>44.858910 -0.565840</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.858910 -0.565840</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>121</bm:GID>
+            <bm:IDENT>121</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place St Martial</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.61">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.846250 -0.564950</gml:lowerCorner>
+                    <gml:upperCorner>44.846250 -0.564950</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.846250 -0.564950</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>61</bm:GID>
+            <bm:IDENT>61</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Parc aux Angeliques</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.146">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.889355 -0.567319</gml:lowerCorner>
+                    <gml:upperCorner>44.889355 -0.567319</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.889355 -0.567319</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>146</bm:GID>
+            <bm:IDENT>146</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Palais des Congres</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.3">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.840813 -0.593233</gml:lowerCorner>
+                    <gml:upperCorner>44.840813 -0.593233</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.840813 -0.593233</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>3</bm:GID>
+            <bm:IDENT>3</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Piscine Judaique</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>21</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.110">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.812380 -0.591030</gml:lowerCorner>
+                    <gml:upperCorner>44.812380 -0.591030</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.812380 -0.591030</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>110</bm:GID>
+            <bm:IDENT>110</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Forum</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>30</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.48">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.825780 -0.589750</gml:lowerCorner>
+                    <gml:upperCorner>44.825780 -0.589750</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.825780 -0.589750</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>48</bm:GID>
+            <bm:IDENT>48</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere de Pessac</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.2">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.837840 -0.590280</gml:lowerCorner>
+                    <gml:upperCorner>44.837840 -0.590280</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.837840 -0.590280</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>2</bm:GID>
+            <bm:IDENT>2</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Bruno</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.8">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.834360 -0.588250</gml:lowerCorner>
+                    <gml:upperCorner>44.834360 -0.588250</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.834360 -0.588250</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>8</bm:GID>
+            <bm:IDENT>8</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Patinoire</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.25">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.831000 -0.587340</gml:lowerCorner>
+                    <gml:upperCorner>44.831000 -0.587340</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.831000 -0.587340</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>25</bm:GID>
+            <bm:IDENT>25</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>François de Sourdis</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.47">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.827890 -0.586050</gml:lowerCorner>
+                    <gml:upperCorner>44.827890 -0.586050</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.827890 -0.586050</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>47</bm:GID>
+            <bm:IDENT>47</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Magendie</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.4">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.842210 -0.584820</gml:lowerCorner>
+                    <gml:upperCorner>44.842210 -0.584820</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.842210 -0.584820</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>4</bm:GID>
+            <bm:IDENT>4</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Seurin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.153">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.792300 -0.581696</gml:lowerCorner>
+                    <gml:upperCorner>44.792300 -0.581696</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.792300 -0.581696</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>153</bm:GID>
+            <bm:IDENT>153</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Parc Sourreil</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.1">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.838030 -0.584370</gml:lowerCorner>
+                    <gml:upperCorner>44.838030 -0.584370</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.838030 -0.584370</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>1</bm:GID>
+            <bm:IDENT>1</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Meriadeck</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>28</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.24">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.833250 -0.583080</gml:lowerCorner>
+                    <gml:upperCorner>44.833250 -0.583080</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.833250 -0.583080</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>24</bm:GID>
+            <bm:IDENT>24</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Liberation</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>1</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.109">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.822090 -0.581780</gml:lowerCorner>
+                    <gml:upperCorner>44.822090 -0.581780</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.822090 -0.581780</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>109</bm:GID>
+            <bm:IDENT>109</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere St Genes</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>20</bm:NBPLACES>
+            <bm:NBVELOS>16</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.500">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.840126 -0.582589</gml:lowerCorner>
+                    <gml:upperCorner>44.840126 -0.582589</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.840126 -0.582589</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>500</bm:GID>
+            <bm:IDENT>500</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Gambetta mobile</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>27</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.7">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.835940 -0.582110</gml:lowerCorner>
+                    <gml:upperCorner>44.835940 -0.582110</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.835940 -0.582110</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>7</bm:GID>
+            <bm:IDENT>7</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Palais de Justice</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.171">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.829930 -0.581409</gml:lowerCorner>
+                    <gml:upperCorner>44.829930 -0.581409</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.829930 -0.581409</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>171</bm:GID>
+            <bm:IDENT>171</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Amedee Larrieu</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>18</bm:NBPLACES>
+            <bm:NBVELOS>1</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.6">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.837790 -0.581660</gml:lowerCorner>
+                    <gml:upperCorner>44.837790 -0.581660</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.837790 -0.581660</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>6</bm:GID>
+            <bm:IDENT>6</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Square Andre Lhote</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>23</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.5">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.841500 -0.580800</gml:lowerCorner>
+                    <gml:upperCorner>44.841500 -0.580800</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.841500 -0.580800</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>5</bm:GID>
+            <bm:IDENT>5</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Gambetta</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>18</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-16 15:32:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.23">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.834830 -0.580190</gml:lowerCorner>
+                    <gml:upperCorner>44.834830 -0.580190</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.834830 -0.580190</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>23</bm:GID>
+            <bm:IDENT>23</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Republique</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>28</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.108">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.824710 -0.578150</gml:lowerCorner>
+                    <gml:upperCorner>44.824710 -0.578150</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.824710 -0.578150</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>108</bm:GID>
+            <bm:IDENT>108</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Bergonie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.45">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.833120 -0.576950</gml:lowerCorner>
+                    <gml:upperCorner>44.833120 -0.576950</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.833120 -0.576950</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>45</bm:GID>
+            <bm:IDENT>45</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Ste Eulalie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.20">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.843140 -0.577240</gml:lowerCorner>
+                    <gml:upperCorner>44.843140 -0.577240</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.843140 -0.577240</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>20</bm:GID>
+            <bm:IDENT>20</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Grands Hommes</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>17</bm:NBPLACES>
+            <bm:NBVELOS>14</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.107">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.827510 -0.575890</gml:lowerCorner>
+                    <gml:upperCorner>44.827510 -0.575890</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.827510 -0.575890</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>107</bm:GID>
+            <bm:IDENT>107</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Nicolas</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.22">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.838260 -0.576480</gml:lowerCorner>
+                    <gml:upperCorner>44.838260 -0.576480</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.838260 -0.576480</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>22</bm:GID>
+            <bm:IDENT>22</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Hotel de Ville</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>24</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.44">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.836060 -0.575440</gml:lowerCorner>
+                    <gml:upperCorner>44.836060 -0.575440</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.836060 -0.575440</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>44</bm:GID>
+            <bm:IDENT>44</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Musee d'Aquitaine</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>17</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.21">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.841220 -0.575600</gml:lowerCorner>
+                    <gml:upperCorner>44.841220 -0.575600</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.841220 -0.575600</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>21</bm:GID>
+            <bm:IDENT>21</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Puy Paulin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.41">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.838890 -0.574660</gml:lowerCorner>
+                    <gml:upperCorner>44.838890 -0.574660</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.838890 -0.574660</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>41</bm:GID>
+            <bm:IDENT>41</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place St Projet</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>4</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.106">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.830640 -0.573210</gml:lowerCorner>
+                    <gml:upperCorner>44.830640 -0.573210</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.830640 -0.573210</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>106</bm:GID>
+            <bm:IDENT>106</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place de la Victoire</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>20</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.40">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.842930 -0.573900</gml:lowerCorner>
+                    <gml:upperCorner>44.842930 -0.573900</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.842930 -0.573900</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>40</bm:GID>
+            <bm:IDENT>40</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Grand Theatre</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.132">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826280 -0.572480</gml:lowerCorner>
+                    <gml:upperCorner>44.826280 -0.572480</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826280 -0.572480</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>132</bm:GID>
+            <bm:IDENT>132</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Cours de la Somme</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.131">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.820320 -0.571850</gml:lowerCorner>
+                    <gml:upperCorner>44.820320 -0.571850</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.820320 -0.571850</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>131</bm:GID>
+            <bm:IDENT>131</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Nansouty</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.43">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.837070 -0.572790</gml:lowerCorner>
+                    <gml:upperCorner>44.837070 -0.572790</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.837070 -0.572790</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>43</bm:GID>
+            <bm:IDENT>43</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Paul</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.152">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.799670 -0.569953</gml:lowerCorner>
+                    <gml:upperCorner>44.799670 -0.569953</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.799670 -0.569953</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>152</bm:GID>
+            <bm:IDENT>152</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Hopital Robert Picque</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>2</bm:NBPLACES>
+            <bm:NBVELOS>17</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.104">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.835180 -0.572050</gml:lowerCorner>
+                    <gml:upperCorner>44.835180 -0.572050</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.835180 -0.572050</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>104</bm:GID>
+            <bm:IDENT>104</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Grosse Cloche</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.130">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.814476 -0.570589</gml:lowerCorner>
+                    <gml:upperCorner>44.814476 -0.570589</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.814476 -0.570589</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>130</bm:GID>
+            <bm:IDENT>130</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere de Toulouse</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.77">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.773678 -0.613335</gml:lowerCorner>
+                    <gml:upperCorner>44.773678 -0.613335</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.773678 -0.613335</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>77</bm:GID>
+            <bm:IDENT>77</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Place Bernard Roumegoux</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.79">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.786200 -0.638740</gml:lowerCorner>
+                    <gml:upperCorner>44.786200 -0.638740</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.786200 -0.638740</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>79</bm:GID>
+            <bm:IDENT>79</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Pessac Bersol</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.164">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.787525 -0.655167</gml:lowerCorner>
+                    <gml:upperCorner>44.787525 -0.655167</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.787525 -0.655167</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>164</bm:GID>
+            <bm:IDENT>164</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Hopital Haut Leveque</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.154">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.792090 -0.591518</gml:lowerCorner>
+                    <gml:upperCorner>44.792090 -0.591518</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.792090 -0.591518</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>154</bm:GID>
+            <bm:IDENT>154</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Thouars</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.155">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.791485 -0.613107</gml:lowerCorner>
+                    <gml:upperCorner>44.791485 -0.613107</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.791485 -0.613107</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>155</bm:GID>
+            <bm:IDENT>155</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Village 6 IUT</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.114">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.793130 -0.605470</gml:lowerCorner>
+                    <gml:upperCorner>44.793130 -0.605470</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.793130 -0.605470</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>114</bm:GID>
+            <bm:IDENT>114</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Compostelle</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.82">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.792915 -0.646629</gml:lowerCorner>
+                    <gml:upperCorner>44.792915 -0.646629</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.792915 -0.646629</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>82</bm:GID>
+            <bm:IDENT>82</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>La Chataigneraie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.78">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.793870 -0.635300</gml:lowerCorner>
+                    <gml:upperCorner>44.793870 -0.635300</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.793870 -0.635300</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>78</bm:GID>
+            <bm:IDENT>78</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Bougnard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.80">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.793190 -0.657632</gml:lowerCorner>
+                    <gml:upperCorner>44.793190 -0.657632</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.793190 -0.657632</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>80</bm:GID>
+            <bm:IDENT>80</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Gare Pessac Alouette</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.113">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.796880 -0.601870</gml:lowerCorner>
+                    <gml:upperCorner>44.796880 -0.601870</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.796880 -0.601870</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>113</bm:GID>
+            <bm:IDENT>113</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Ecole de Management</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.116">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.796670 -0.617040</gml:lowerCorner>
+                    <gml:upperCorner>44.796670 -0.617040</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.796670 -0.617040</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>116</bm:GID>
+            <bm:IDENT>116</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Montaigne Montesquieu</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>32</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.81">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.795880 -0.667330</gml:lowerCorner>
+                    <gml:upperCorner>44.795880 -0.667330</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.795880 -0.667330</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>81</bm:GID>
+            <bm:IDENT>81</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Castaing</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.165">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.798280 -0.663053</gml:lowerCorner>
+                    <gml:upperCorner>44.798280 -0.663053</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.798280 -0.663053</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>165</bm:GID>
+            <bm:IDENT>165</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>France Alouette</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.117">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.800380 -0.609860</gml:lowerCorner>
+                    <gml:upperCorner>44.800380 -0.609860</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.800380 -0.609860</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>117</bm:GID>
+            <bm:IDENT>117</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Doyen Brus</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.115">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.800910 -0.596510</gml:lowerCorner>
+                    <gml:upperCorner>44.800910 -0.596510</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.800910 -0.596510</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>115</bm:GID>
+            <bm:IDENT>115</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>CREPS </bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>22</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.83">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.804460 -0.632670</gml:lowerCorner>
+                    <gml:upperCorner>44.804460 -0.632670</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.804460 -0.632670</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>83</bm:GID>
+            <bm:IDENT>83</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Pessac Centre</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>5</bm:NBPLACES>
+            <bm:NBVELOS>16</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.112">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.805910 -0.602320</gml:lowerCorner>
+                    <gml:upperCorner>44.805910 -0.602320</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.805910 -0.602320</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>112</bm:GID>
+            <bm:IDENT>112</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Arts et Metiers</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>21</bm:NBPLACES>
+            <bm:NBVELOS>19</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.111">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.806810 -0.592450</gml:lowerCorner>
+                    <gml:upperCorner>44.806810 -0.592450</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.806810 -0.592450</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>111</bm:GID>
+            <bm:IDENT>111</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Peixotto</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>36</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.84">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.815350 -0.634440</gml:lowerCorner>
+                    <gml:upperCorner>44.815350 -0.634440</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.815350 -0.634440</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>84</bm:GID>
+            <bm:IDENT>84</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Le Burck</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.141">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.818874 -0.599919</gml:lowerCorner>
+                    <gml:upperCorner>44.818874 -0.599919</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.818874 -0.599919</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>141</bm:GID>
+            <bm:IDENT>141</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Medoquine</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.140">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.823410 -0.600670</gml:lowerCorner>
+                    <gml:upperCorner>44.823410 -0.600670</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.823410 -0.600670</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>140</bm:GID>
+            <bm:IDENT>140</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Charles Perrens</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.27">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826540 -0.601840</gml:lowerCorner>
+                    <gml:upperCorner>44.826540 -0.601840</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826540 -0.601840</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>27</bm:GID>
+            <bm:IDENT>27</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Bordeaux II</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.90">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.826500 -0.625770</gml:lowerCorner>
+                    <gml:upperCorner>44.826500 -0.625770</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.826500 -0.625770</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>90</bm:GID>
+            <bm:IDENT>90</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Fontaine d'Arlac</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.26">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.827970 -0.593490</gml:lowerCorner>
+                    <gml:upperCorner>44.827970 -0.593490</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.827970 -0.593490</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>26</bm:GID>
+            <bm:IDENT>26</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Xaintrailles</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>5</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.28">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.829860 -0.603510</gml:lowerCorner>
+                    <gml:upperCorner>44.829860 -0.603510</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.829860 -0.603510</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>28</bm:GID>
+            <bm:IDENT>28</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Hopital Pellegrin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>4</bm:NBPLACES>
+            <bm:NBVELOS>28</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.10">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.831760 -0.598680</gml:lowerCorner>
+                    <gml:upperCorner>44.831760 -0.598680</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.831760 -0.598680</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>10</bm:GID>
+            <bm:IDENT>10</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Stade Chaban Delmas</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>20</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.9">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.833030 -0.592890</gml:lowerCorner>
+                    <gml:upperCorner>44.833030 -0.592890</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.833030 -0.592890</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>9</bm:GID>
+            <bm:IDENT>9</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Gavinies</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.29">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.832510 -0.610470</gml:lowerCorner>
+                    <gml:upperCorner>44.832510 -0.610470</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.832510 -0.610470</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>29</bm:GID>
+            <bm:IDENT>29</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>St Augustin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>18</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.86">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.831917 -0.654779</gml:lowerCorner>
+                    <gml:upperCorner>44.831917 -0.654779</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.831917 -0.654779</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>86</bm:GID>
+            <bm:IDENT>86</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Merignac Soleil</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.85">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.832420 -0.645940</gml:lowerCorner>
+                    <gml:upperCorner>44.832420 -0.645940</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.832420 -0.645940</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>85</bm:GID>
+            <bm:IDENT>85</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Merignac Quatre Chemins</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>3</bm:NBPLACES>
+            <bm:NBVELOS>15</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.30">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.838380 -0.616890</gml:lowerCorner>
+                    <gml:upperCorner>44.838380 -0.616890</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.838380 -0.616890</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>30</bm:GID>
+            <bm:IDENT>30</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Mondesir</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.87">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.836280 -0.687130</gml:lowerCorner>
+                    <gml:upperCorner>44.836280 -0.687130</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.836280 -0.687130</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>87</bm:GID>
+            <bm:IDENT>87</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Kennedy Parc Hotelier</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.142">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.839470 -0.629236</gml:lowerCorner>
+                    <gml:upperCorner>44.839470 -0.629236</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.839470 -0.629236</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>142</bm:GID>
+            <bm:IDENT>142</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Bourranville</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.11">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.841660 -0.599700</gml:lowerCorner>
+                    <gml:upperCorner>44.841660 -0.599700</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.841660 -0.599700</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>11</bm:GID>
+            <bm:IDENT>11</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Cite Administrative</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>20</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.160">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.912045 -0.724596</gml:lowerCorner>
+                    <gml:upperCorner>44.912045 -0.724596</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.912045 -0.724596</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>160</bm:GID>
+            <bm:IDENT>160</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Eglise St Aubin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>5</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.92">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.895390 -0.714870</gml:lowerCorner>
+                    <gml:upperCorner>44.895390 -0.714870</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.895390 -0.714870</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>92</bm:GID>
+            <bm:IDENT>92</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>St Medard Republique</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.167">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.884285 -0.690917</gml:lowerCorner>
+                    <gml:upperCorner>44.884285 -0.690917</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.884285 -0.690917</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>167</bm:GID>
+            <bm:IDENT>167</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Centre Commercial St Medard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.91">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.873690 -0.677530</gml:lowerCorner>
+                    <gml:upperCorner>44.873690 -0.677530</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.873690 -0.677530</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>91</bm:GID>
+            <bm:IDENT>91</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Mairie du Haillan</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.158">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.858580 -0.668345</gml:lowerCorner>
+                    <gml:upperCorner>44.858580 -0.668345</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.858580 -0.668345</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>158</bm:GID>
+            <bm:IDENT>158</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Le Haillan Rostand</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.161">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.903990 -0.668900</gml:lowerCorner>
+                    <gml:upperCorner>44.903990 -0.668900</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.903990 -0.668900</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>161</bm:GID>
+            <bm:IDENT>161</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Le Taillan Mairie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.157">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.856820 -0.659829</gml:lowerCorner>
+                    <gml:upperCorner>44.856820 -0.659829</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.856820 -0.659829</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>157</bm:GID>
+            <bm:IDENT>157</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Les Pins</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.156">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.844140 -0.658343</gml:lowerCorner>
+                    <gml:upperCorner>44.844140 -0.658343</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.844140 -0.658343</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>156</bm:GID>
+            <bm:IDENT>156</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Hotel de Ville Merignac</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>13</bm:NBPLACES>
+            <bm:NBVELOS>7</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.89">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.841600 -0.646465</gml:lowerCorner>
+                    <gml:upperCorner>44.841600 -0.646465</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.841600 -0.646465</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>89</bm:GID>
+            <bm:IDENT>89</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Merignac Centre</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.88">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.850970 -0.644750</gml:lowerCorner>
+                    <gml:upperCorner>44.850970 -0.644750</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.850970 -0.644750</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>88</bm:GID>
+            <bm:IDENT>88</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Merignac Capeyron</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>17</bm:NBPLACES>
+            <bm:NBVELOS>1</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.93">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.869026 -0.636207</gml:lowerCorner>
+                    <gml:upperCorner>44.869026 -0.636207</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.869026 -0.636207</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>93</bm:GID>
+            <bm:IDENT>93</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Place Florale</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.168">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.909060 -0.630657</gml:lowerCorner>
+                    <gml:upperCorner>44.909060 -0.630657</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.909060 -0.630657</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>168</bm:GID>
+            <bm:IDENT>168</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Mairie de Blanquefort</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>16</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.143">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.858080 -0.623341</gml:lowerCorner>
+                    <gml:upperCorner>44.858080 -0.623341</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.858080 -0.623341</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>143</bm:GID>
+            <bm:IDENT>143</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Pins Francs</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>3</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.94">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.917300 -0.623820</gml:lowerCorner>
+                    <gml:upperCorner>44.917300 -0.623820</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.917300 -0.623820</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>94</bm:GID>
+            <bm:IDENT>94</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Gare de Blanquefort</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.31">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.851750 -0.614380</gml:lowerCorner>
+                    <gml:upperCorner>44.851750 -0.614380</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.851750 -0.614380</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>31</bm:GID>
+            <bm:IDENT>31</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Cauderan</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>9</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.95">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.881450 -0.613370</gml:lowerCorner>
+                    <gml:upperCorner>44.881450 -0.613370</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.881450 -0.613370</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>95</bm:GID>
+            <bm:IDENT>95</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Bruges Hotel de Ville</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>6</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.12">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.851150 -0.608610</gml:lowerCorner>
+                    <gml:upperCorner>44.851150 -0.608610</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.851150 -0.608610</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>12</bm:GID>
+            <bm:IDENT>12</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Grand Lebrun </bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>5</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.49">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.863290 -0.599950</gml:lowerCorner>
+                    <gml:upperCorner>44.863290 -0.599950</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.863290 -0.599950</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>49</bm:GID>
+            <bm:IDENT>49</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Le Bouscat Mairie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>11</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.32">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.852610 -0.599230</gml:lowerCorner>
+                    <gml:upperCorner>44.852610 -0.599230</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.852610 -0.599230</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>32</bm:GID>
+            <bm:IDENT>32</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Parc Bordelais</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>9</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.13">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.848370 -0.598100</gml:lowerCorner>
+                    <gml:upperCorner>44.848370 -0.598100</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.848370 -0.598100</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>13</bm:GID>
+            <bm:IDENT>13</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere St Medard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>13</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.15">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.845210 -0.592060</gml:lowerCorner>
+                    <gml:upperCorner>44.845210 -0.592060</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.845210 -0.592060</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>15</bm:GID>
+            <bm:IDENT>15</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Rue de la Croix Blanche</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.14">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.848190 -0.591970</gml:lowerCorner>
+                    <gml:upperCorner>44.848190 -0.591970</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.848190 -0.591970</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>14</bm:GID>
+            <bm:IDENT>14</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Dubreuil Turenne</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.33">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.853300 -0.591761</gml:lowerCorner>
+                    <gml:upperCorner>44.853300 -0.591761</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.853300 -0.591761</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>33</bm:GID>
+            <bm:IDENT>33</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Barriere du Medoc</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>8</bm:NBPLACES>
+            <bm:NBVELOS>10</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.169">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.872536 -0.591066</gml:lowerCorner>
+                    <gml:upperCorner>44.872536 -0.591066</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.872536 -0.591066</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>169</bm:GID>
+            <bm:IDENT>169</bm:IDENT>
+            <bm:TYPE>VLS+</bm:TYPE>
+            <bm:NOM>Bruges La Vache</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.34">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.853790 -0.588640</gml:lowerCorner>
+                    <gml:upperCorner>44.853790 -0.588640</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.853790 -0.588640</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>34</bm:GID>
+            <bm:IDENT>34</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Tivoli</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>3</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.50">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.859990 -0.588760</gml:lowerCorner>
+                    <gml:upperCorner>44.859990 -0.588760</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.859990 -0.588760</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>50</bm:GID>
+            <bm:IDENT>50</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Mandron Godard</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.53">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.854170 -0.586590</gml:lowerCorner>
+                    <gml:upperCorner>44.854170 -0.586590</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.854170 -0.586590</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>53</bm:GID>
+            <bm:IDENT>53</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Parc Riviere</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>2</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.35">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.850050 -0.585470</gml:lowerCorner>
+                    <gml:upperCorner>44.850050 -0.585470</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.850050 -0.585470</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>35</bm:GID>
+            <bm:IDENT>35</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Marie Brizard</bm:NOM>
+            <bm:ETAT>DECONNECTEE</bm:ETAT>
+            <bm:NBPLACES>0</bm:NBPLACES>
+            <bm:NBVELOS>0</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.144">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.878494 -0.585010</gml:lowerCorner>
+                    <gml:upperCorner>44.878494 -0.585010</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.878494 -0.585010</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>144</bm:GID>
+            <bm:IDENT>144</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Jean Moulin</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>7</bm:NBPLACES>
+            <bm:NBVELOS>12</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:03</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.51">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.862770 -0.583390</gml:lowerCorner>
+                    <gml:upperCorner>44.862770 -0.583390</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.862770 -0.583390</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>51</bm:GID>
+            <bm:IDENT>51</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place Ampere</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>8</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.17">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.846900 -0.582190</gml:lowerCorner>
+                    <gml:upperCorner>44.846900 -0.582190</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.846900 -0.582190</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>17</bm:GID>
+            <bm:IDENT>17</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Palais Gallien</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>10</bm:NBPLACES>
+            <bm:NBVELOS>4</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.18">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.844230 -0.581640</gml:lowerCorner>
+                    <gml:upperCorner>44.844230 -0.581640</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.844230 -0.581640</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>18</bm:GID>
+            <bm:IDENT>18</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Huguerie</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>12</bm:NBPLACES>
+            <bm:NBVELOS>2</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.36">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.850050 -0.582000</gml:lowerCorner>
+                    <gml:upperCorner>44.850050 -0.582000</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.850050 -0.582000</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>36</bm:GID>
+            <bm:IDENT>36</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place de Longchamps</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>11</bm:NBPLACES>
+            <bm:NBVELOS>6</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+    <gml:featureMember>
+        <bm:CI_VCUB_P gml:id="CI_VCUB_P.52">
+            <gml:boundedBy>
+                <gml:Envelope srsName="EPSG:4326">
+                    <gml:lowerCorner>44.858902 -0.581327</gml:lowerCorner>
+                    <gml:upperCorner>44.858902 -0.581327</gml:upperCorner>
+                </gml:Envelope>
+            </gml:boundedBy>
+            <bm:geometry>
+                <gml:Point srsName="EPSG:4326">
+                    <gml:pos>44.858902 -0.581327</gml:pos>
+                </gml:Point>
+            </bm:geometry>
+            <bm:GID>52</bm:GID>
+            <bm:IDENT>52</bm:IDENT>
+            <bm:TYPE>VLS</bm:TYPE>
+            <bm:NOM>Place de l'Europe</bm:NOM>
+            <bm:ETAT>CONNECTEE</bm:ETAT>
+            <bm:NBPLACES>15</bm:NBPLACES>
+            <bm:NBVELOS>3</bm:NBVELOS>
+            <bm:HEURE>2018-11-25 17:35:04</bm:HEURE>
+        </bm:CI_VCUB_P>
+    </gml:featureMember>
+</wfs:FeatureCollection>
