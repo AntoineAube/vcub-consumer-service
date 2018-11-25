@@ -4,7 +4,7 @@ import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 import com.mashape.unirest.request.HttpRequest;
-import fr.antoineaube.vcs.business.StationsProvider;
+import fr.antoineaube.vcs.business.PlainStationsProvider;
 import fr.antoineaube.vcs.business.entities.BicyclesStation;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,19 +12,19 @@ import org.apache.logging.log4j.Logger;
 import java.util.Collections;
 import java.util.List;
 
-public class BordeauxStationsProvider implements StationsProvider {
+public class BordeauxPlainStationsProvider implements PlainStationsProvider {
 
-    private static final Logger LOGGER = LogManager.getLogger(BordeauxStationsProvider.class);
+    private static final Logger LOGGER = LogManager.getLogger(BordeauxPlainStationsProvider.class);
     private static final String BORDEAUX_WFS_API_URL = "http://data.lacub.fr/wfs";
     private static final XMLStationsParser STATIONS_PARSER = new XMLStationsParser();
 
     private final String apiKey;
 
-    public BordeauxStationsProvider() {
+    public BordeauxPlainStationsProvider() {
         apiKey = System.getenv("bordeaux-api-key");
     }
 
-    public BordeauxStationsProvider(String apiKey) {
+    public BordeauxPlainStationsProvider(String apiKey) {
         this.apiKey = apiKey;
     }
 

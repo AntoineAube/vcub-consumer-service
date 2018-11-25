@@ -17,11 +17,11 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.when;
 
-public class BordeauxStationsProviderTest {
+public class BordeauxPlainStationsProviderTest {
 
     @Test
     public void shouldCreateACorrectRequest() {
-        BordeauxStationsProvider provider = new BordeauxStationsProvider("ABC");
+        BordeauxPlainStationsProvider provider = new BordeauxPlainStationsProvider("ABC");
 
         assertEquals("http://data.lacub.fr/wfs?KEY=ABC&SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=CI_VCUB_P&SRSNAME=EPSG%3A4326",
                 provider.createRequest().getUrl());
@@ -36,21 +36,21 @@ public class BordeauxStationsProviderTest {
         HttpRequest mockedRequest = mock(HttpRequest.class);
         when(mockedRequest.asString()).thenReturn(mockedResponse);
 
-        BordeauxStationsProvider provider = spy(new BordeauxStationsProvider("ABC"));
+        BordeauxPlainStationsProvider provider = spy(new BordeauxPlainStationsProvider("ABC"));
         when(provider.createRequest()).thenReturn(mockedRequest);
 
         assertEquals(1, provider.fetchBicyclesStations().size());
     }
 
     @Test
-    public void shouldReturnAnEmptyListWhenWrongStatusCode() throws IOException, URISyntaxException, UnirestException {
+    public void shouldReturnAnEmptyListWhenWrongStatusCode() throws UnirestException {
         HttpResponse<String> mockedResponse = mock(HttpResponse.class);
         when(mockedResponse.getStatus()).thenReturn(400);
 
         HttpRequest mockedRequest = mock(HttpRequest.class);
         when(mockedRequest.asString()).thenReturn(mockedResponse);
 
-        BordeauxStationsProvider provider = spy(new BordeauxStationsProvider("ABC"));
+        BordeauxPlainStationsProvider provider = spy(new BordeauxPlainStationsProvider("ABC"));
         when(provider.createRequest()).thenReturn(mockedRequest);
 
         assertEquals(0, provider.fetchBicyclesStations().size());
@@ -61,7 +61,7 @@ public class BordeauxStationsProviderTest {
         HttpRequest mockedRequest = mock(HttpRequest.class);
         when(mockedRequest.asString()).thenThrow(new UnirestException("False exception!"));
 
-        BordeauxStationsProvider provider = spy(new BordeauxStationsProvider("ABC"));
+        BordeauxPlainStationsProvider provider = spy(new BordeauxPlainStationsProvider("ABC"));
         when(provider.createRequest()).thenReturn(mockedRequest);
 
         assertEquals(0, provider.fetchBicyclesStations().size());
