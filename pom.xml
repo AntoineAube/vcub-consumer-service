@@ -7,10 +7,19 @@
     <groupId>fr.antoineaube</groupId>
     <artifactId>vcub-consumer-service</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <name>VCub consumer service</name>
 
+    <properties>
+        <jetty.http.port>8080</jetty.http.port>
+        <jersey2.version>2.27</jersey2.version>
+        <jetty.version>9.4.14.v20181114</jetty.version>
+    </properties>
+
     <build>
+        <finalName>vcs</finalName>
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -19,6 +28,16 @@
                 <configuration>
                     <source>8</source>
                     <target>8</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.openejb.maven</groupId>
+                <artifactId>tomee-maven-plugin</artifactId>
+                <version>1.7.1</version>
+                <configuration>
+                    <tomeeVersion>1.7.1</tomeeVersion>
+                    <tomeeClassifier>plus</tomeeClassifier>
                 </configuration>
             </plugin>
         </plugins>
@@ -39,6 +58,32 @@
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
             <version>2.11.1</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.ws.rs</groupId>
+            <artifactId>javax.ws.rs-api</artifactId>
+            <version>2.1.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.glassfish.jersey.core</groupId>
+            <artifactId>jersey-server</artifactId>
+            <version>2.22.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.containers</groupId>
+            <artifactId>jersey-container-servlet</artifactId>
+            <version>2.22.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.media</groupId>
+            <artifactId>jersey-media-moxy</artifactId>
+            <version>2.22.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.media</groupId>
+            <artifactId>jersey-media-json-jackson</artifactId>
+            <version>2.22.1</version>
         </dependency>
 
         <dependency>

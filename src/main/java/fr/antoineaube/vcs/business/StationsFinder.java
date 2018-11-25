@@ -27,7 +27,7 @@ public class StationsFinder {
         queriedStation.setName(plainStation.getName());
         queriedStation.setPosition(plainStation.getLocation());
         queriedStation.setDistanceToQueriedPosition(distanceBetweenPosition(plainStation.getLocation(), queriedLocation));
-        queriedStation.setRemainingPlacesNumber(plainStation.getBicyclesPlacesNumber() - plainStation.getStationedBicyclesNumber());
+        queriedStation.setRemainingPlacesNumber(plainStation.getBicyclesPlacesNumber());
         queriedStation.setStationedBicyclesNumber(plainStation.getStationedBicyclesNumber());
 
         return queriedStation;

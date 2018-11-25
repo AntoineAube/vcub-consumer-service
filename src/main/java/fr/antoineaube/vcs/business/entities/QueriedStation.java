@@ -1,5 +1,8 @@
 package fr.antoineaube.vcs.business.entities;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class QueriedStation {
 
     private String name;
