@@ -35,7 +35,7 @@ public class StationsFinderTest {
 
         assertEquals("Station A", station.getName());
         assertEquals(new Position(0, 0, "EPSG:4326"), station.getPosition());
-        assertEquals(1, station.getDistanceToQueriedPosition());
+        assertEquals(1f, station.getDistanceToQueriedPosition(), 0.001);
         assertEquals(10, station.getStationedBicyclesNumber());
         assertEquals(10, station.getRemainingPlacesNumber());
     }
